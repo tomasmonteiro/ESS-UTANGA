@@ -1,0 +1,32 @@
+﻿@model SistemaDeGestaoEscolar.ViewModel.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+<section id="aa-myaccount">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aa-myaccount-area">
+                    <div class="row">
+                        <div class="col-md-offset-3 col-md-6">
+                            <div class="aa-myaccount-login">
+                                <h4>@ViewData["Title"]</h4>
+                                <div asp-validation-summary="All" class="text-danger"></div>
+                                <form asp-action="Login" asp-controller="Account" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="aa-login-form">
+                                    <label asp-for="Email">Email<span>*</span></label>
+                                    <input type="text" asp-for="Email">
+                                    <label asp-for="Senha">Senha<span>*</span></label>
+                                    <input type="password" asp-for="Senha">
+                                    <button type="submit" class="aa-browse-btn">Login</button>
+                                    <label class="rememberme" for="rememberme"><input type="checkbox" asp-for="MeLembrar"> Me lembrar</label>
+                                    <p class="aa-lost-password"><a asp-action="Registro" asp-controller="Account">Ainda não é cadastrado?</a></p>
+                                    <p class="aa-lost-password"><a href="#">Esqueceu a senha?</a></p>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

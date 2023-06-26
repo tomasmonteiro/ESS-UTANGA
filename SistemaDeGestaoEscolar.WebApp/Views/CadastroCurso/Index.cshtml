@@ -1,0 +1,107 @@
+﻿@using SistemaDeGestaoEscolar.WebApp;
+@using SistemaDeGestaoEscolar.ViewModel;
+@model List<CadastroCursoViewModel>
+@{
+    ViewData["Title"] = "Cadastro de Cursos";
+
+    var permiteIncluirAlterar = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.IncluirAlterarCadastroCurso);
+    var permiteExcluir = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.ExcluirCadastroCurso);
+
+    var urlExcluir = Url.Action("Excluir", new { id = -1 });
+    var urlGrid = Url.Action("Index");
+}
+<section id="cadastro">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-offset-2 col-md-8">
+                <div style="margin: 2em 0">
+                    <h4>@ViewData["Title"]</h4>
+                    @if (permiteIncluirAlterar)
+                    {
+                        <div class="row">
+                            <div class="col-md-12">
+                                <a class="btn btn-primary" asp-action="Incluir" asp-controller="CadastroCurso"><i class="fa fa-plus"></i>&nbsp;Incluir</a>
+                            </div>
+                        </div>
+                    }
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Nome</th>
+                                @if (permiteIncluirAlterar || permiteExcluir)
+                                {
+                                    <th style="width: 12em">Operações</th>
+                                }
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model.Count == 0)
+                            {
+                                <tr><td colspan="2">Nenhum Curso cadastrado</td></tr>
+                            }
+                            else
+                            {
+                                foreach (var user in Model)
+                                {
+                                    <tr>
+                                        <td>@user.Nome</td>
+                                        @if (permiteIncluirAlterar || permiteExcluir)
+                                        {
+                                            <td>
+                                                @if (permiteIncluirAlterar)
+                                                {
+                                                    <a class="btn btn-success" asp-action="Alterar" asp-controller="CadastroCurso" asp-route-id="@user.Id"><i class="fa fa-edit"></i>&nbsp;Alterar</a>
+                                                }
+                                                @if (permiteExcluir)
+                                                {
+                                                    <a class="btn btn-danger btn-excluir" data-id="@user.Id"><i class="fa fa-trash"></i>&nbsp;Excluir</a>
+                                                }
+                                            </td>
+                                        }
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        const url = {
+            excluir: '@urlExcluir',
+            grid: '@urlGrid'
+        };
+
+        $(document).on('click', '.btn-excluir', function () {
+            const id = $(this).attr('data-id');
+
+            swal("Deseja mesmo excluir esse Curso?", {
+                buttons: {
+                    cancel: 'Cancelar',
+                    confirmar: 'Excluir'
+                },
+            }).then(function (value) {
+                if (value == 'confirmar') {
+                    $.ajax({
+                        url: url.excluir.replace('-1', id),
+                        type: 'delete',
+                        success: function (response) {
+                            if (response) {
+                                swal('Curso excluído com sucesso').then(function () {
+                                    window.location.href = url.grid;
+                                });
+                            }
+                            else {
+                                swal('Não foi possível excluir o Curso');
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}

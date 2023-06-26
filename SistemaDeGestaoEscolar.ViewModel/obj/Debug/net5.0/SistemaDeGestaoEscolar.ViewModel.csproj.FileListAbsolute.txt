@@ -1,0 +1,77 @@
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.ViewModel.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.ViewModel.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.deps.json
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\ref\SistemaDeGestaoEscolar.ViewModel.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.AssemblyReference.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfoInputs.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfo.cs
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CoreCompileInputs.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CopyComplete
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.ViewModel.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.deps.json
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.AssemblyReference.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfoInputs.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.AssemblyInfo.cs
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CoreCompileInputs.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.csproj.CopyComplete
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.ViewModel.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\SistemaDeGestaoEscolar.ViewModel.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.ViewModel\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.ViewModel.dll

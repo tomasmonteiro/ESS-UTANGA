@@ -1,0 +1,4 @@
+Add-Migration AddInicial -Context ApplicationDbContext -Project SistemaDeGestaoEscolar.Data.Mapping -StartupProject SistemaDeGestaoEscolar.Data.Mapping
+
+Script-Migration -Context ApplicationDbContext -project SistemaDeGestaoEscolar.Data.Mapping -StartupProject SistemaDeGestaoEscolar.Data.Mapping
+

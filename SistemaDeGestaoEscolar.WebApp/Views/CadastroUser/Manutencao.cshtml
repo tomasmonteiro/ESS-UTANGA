@@ -1,0 +1,77 @@
+﻿@model CadastroUserViewModel
+@{
+    var operacao = (Model == null || Model.Id == 0) ? "Inclusão" : "Alteração";
+
+    ViewData["Title"] = $"{operacao} de Usuário";
+
+    var perfis = (ViewData["perfis"] as Dictionary<int, string>);
+
+    Model.Saving = true;
+}
+<section id="cadastro-dados">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-offset-2 col-md-8">
+                <div style="margin: 2em 0">
+                    <h4>@ViewData["Title"]</h4>
+                    <hr />
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <form asp-action="Salvar" asp-controller="CadastroUser" method="post">
+                        <input type="hidden" asp-for="Saving" />
+                        <input type="hidden" asp-for="Id" />
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="Nome">Nome Completo&nbsp;<span>*</span></label>
+                                    <input type="text" class="form-control" asp-for="Nome">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="Email">Email&nbsp;<span>*</span></label>
+                                    <input type="text" class="form-control" asp-for="Email">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="Senha">Senha<span>*</span></label>
+                                    <input type="password" asp-for="Senha">
+                                    
+                                    </div>
+                                </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="SenhaConfirmacao">Confirmacao de Senha<span>*</span></label>
+                                    <input type="password" asp-for="SenhaConfirmacao">
+                                 </div>
+                             </div>
+                            </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label asp-for="Perfil">Perfil&nbsp;<span>*</span></label>
+                                    <select class="form-control" asp-for="Perfil">
+                                        @foreach (var perfil in perfis)
+                                        {
+                                            var selecionado = Model.Perfil == perfil.Key ? "selected" : "";
+                                            <option value="@perfil.Key" selecionado>@perfil.Value</option>
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <hr />
+                        <div class="row">
+                            <div class="col-md-12">
+                                <button type="submit" class="btn btn-primary">Salvar</button>
+                                <a asp-action="Index" asp-controller="CadastroUser" class="btn btn-default">Cancelar</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

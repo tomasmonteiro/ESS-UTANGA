@@ -1,0 +1,100 @@
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.dev.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.genruntimeconfig.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.dev.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.genruntimeconfig.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.dev.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.genruntimeconfig.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Data.Mapping.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.deps.json
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.json
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.dev.json
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\ref\SistemaDeGestaoEscolar.Data.Mapping.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.AssemblyReference.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfoInputs.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfo.cs
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CoreCompileInputs.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CopyComplete
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Data.Mapping.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.genruntimeconfig.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.deps.json
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.json
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.runtimeconfig.dev.json
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.AssemblyReference.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfoInputs.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.AssemblyInfo.cs
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CoreCompileInputs.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.csproj.CopyComplete
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.genruntimeconfig.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Data.Mapping\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Data.Mapping.dll

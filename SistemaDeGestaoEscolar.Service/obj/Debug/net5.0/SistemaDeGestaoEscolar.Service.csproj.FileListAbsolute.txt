@@ -1,0 +1,87 @@
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Service.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Service.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.deps.json
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\ref\SistemaDeGestaoEscolar.Service.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.AssemblyReference.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfoInputs.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfo.cs
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CoreCompileInputs.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CopyComplete
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Service.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.deps.json
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.AssemblyReference.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfoInputs.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.AssemblyInfo.cs
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CoreCompileInputs.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.csproj.CopyComplete
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Service.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\SistemaDeGestaoEscolar.Service.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Service\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Service.dll

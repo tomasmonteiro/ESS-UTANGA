@@ -1,0 +1,105 @@
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar1\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.deps.json
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.AssemblyReference.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfoInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfo.cs
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CoreCompileInputs.cache
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CopyComplete
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\Users\THE S.U.S\Desktop\PequenosProjectos\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Repository.Concrete.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.deps.json
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\ref\SistemaDeGestaoEscolar.Repository.Concrete.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.AssemblyReference.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfoInputs.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfo.cs
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CoreCompileInputs.cache
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CopyComplete
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Repository.Concrete.dll
+D:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.deps.json
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Domain.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Data.Mapping.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Interface.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\bin\Debug\net5.0\SistemaDeGestaoEscolar.Common.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.AssemblyReference.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.GeneratedMSBuildEditorConfig.editorconfig
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfoInputs.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.AssemblyInfo.cs
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CoreCompileInputs.cache
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.csproj.CopyComplete
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\refint\SistemaDeGestaoEscolar.Repository.Concrete.dll
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\SistemaDeGestaoEscolar.Repository.Concrete.pdb
+C:\SGE\SistemaDeGestaoEscolar\SistemaDeGestaoEscolar.Repository.Concrete\obj\Debug\net5.0\ref\SistemaDeGestaoEscolar.Repository.Concrete.dll

@@ -1,0 +1,41 @@
+update-database -Context ApplicationIdentityDbContext -Project SistemaDeGestaoEscolar.Data.Mapping -StartupProject SistemaDeGestaoEscolar.Data.Mapping
+
+
+Add-Migration AddIdentity -Context ApplicationIdentityDbContext -Project SistemaDeGestaoEscolar.Data.Mapping -StartupProject SistemaDeGestaoEscolar.Data.Mapping
+
+
+
+
+
+Add-Migration AddUserColumnNomeCompleto -Context ApplicationIdentityDbContext -Project SistemaDeGestaoEscolar.Data.Mapping -StartupProject SistemaDeGestaoEscolar.Data.Mapping
+
+
+Script-Migration  -Context ApplicationIdentityDbContext -Project SistemaDeGestaoEscolar.Data.Mapping -StartupProject SistemaDeGestaoEscolar.Data.Mapping
+
+
+protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.AddColumn<string>(
+                name: "nome_completo",
+                table: "identity_user",
+                type: "nvarchar(200)",
+                maxLength: 200,
+                nullable: false,
+                defaultValue: "");
+        }
+
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropColumn(
+                name: "nome_completo",
+                table: "identity_user");
+        }
+
+
+
+
+
+
+Add-Migration AddUserColumnSenha -Context ApplicationIdentityDbContext -Project SistemaDeGestaoEscolar.Data.Mapping -StartupProject SistemaDeGestaoEscolar.Data.Mapping
+
+Add-Migration AddUserColumnSenhaConfirmacao -Context ApplicationIdentityDbContext -Project SistemaDeGestaoEscolar.Data.Mapping -StartupProject SistemaDeGestaoEscolar.Data.Mapping

@@ -1,0 +1,40 @@
+﻿@model CadastroRoleViewModel
+@{
+    var operacao = (Model == null || Model.Id == 0) ? "Inclusão" : "Alteração";
+
+    ViewData["Title"] = $"{operacao} de Perfil de Usuários";
+
+    Model.Saving = true;
+}
+<section id="cadastro-dados">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-offset-2 col-md-8">
+                <div style="margin: 2em 0">
+                    <h4>@ViewData["Title"]</h4>
+                    <hr />
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <form asp-action="Salvar" asp-controller="CadastroRole" method="post">
+                        <input type="hidden" asp-for="Saving" />
+                        <input type="hidden" asp-for="Id" />
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label asp-for="Nome">Nome&nbsp;<span>*</span></label>
+                                    <input type="text" class="form-control" asp-for="Nome">
+                                </div>
+                            </div>
+                        </div>
+                        <hr />
+                        <div class="row">
+                            <div class="col-md-12">
+                                <button type="submit" class="btn btn-primary">Salvar</button>
+                                <a asp-action="Index" asp-controller="CadastroRole" class="btn btn-default">Cancelar</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

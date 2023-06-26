@@ -1,0 +1,362 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Concrete\\SistemaDeGestaoEscolar.Repository.Concrete.csproj": {}
+  },
+  "projects": {
+    "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Common\\SistemaDeGestaoEscolar.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Common\\SistemaDeGestaoEscolar.Common.csproj",
+        "projectName": "SistemaDeGestaoEscolar.Common",
+        "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Common\\SistemaDeGestaoEscolar.Common.csproj",
+        "packagesPath": "C:\\Users\\Monteiro\\.nuget\\packages\\",
+        "outputPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Monteiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj",
+        "projectName": "SistemaDeGestaoEscolar.Data.Domain",
+        "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj",
+        "packagesPath": "C:\\Users\\Monteiro\\.nuget\\packages\\",
+        "outputPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Monteiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Mapping\\SistemaDeGestaoEscolar.Data.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Mapping\\SistemaDeGestaoEscolar.Data.Mapping.csproj",
+        "projectName": "SistemaDeGestaoEscolar.Data.Mapping",
+        "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Mapping\\SistemaDeGestaoEscolar.Data.Mapping.csproj",
+        "packagesPath": "C:\\Users\\Monteiro\\.nuget\\packages\\",
+        "outputPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Monteiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Common\\SistemaDeGestaoEscolar.Common.csproj": {
+                "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Common\\SistemaDeGestaoEscolar.Common.csproj"
+              },
+              "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj": {
+                "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Concrete\\SistemaDeGestaoEscolar.Repository.Concrete.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Concrete\\SistemaDeGestaoEscolar.Repository.Concrete.csproj",
+        "projectName": "SistemaDeGestaoEscolar.Repository.Concrete",
+        "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Concrete\\SistemaDeGestaoEscolar.Repository.Concrete.csproj",
+        "packagesPath": "C:\\Users\\Monteiro\\.nuget\\packages\\",
+        "outputPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Concrete\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Monteiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj": {
+                "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj"
+              },
+              "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Mapping\\SistemaDeGestaoEscolar.Data.Mapping.csproj": {
+                "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Mapping\\SistemaDeGestaoEscolar.Data.Mapping.csproj"
+              },
+              "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Interface\\SistemaDeGestaoEscolar.Repository.Interface.csproj": {
+                "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Interface\\SistemaDeGestaoEscolar.Repository.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Interface\\SistemaDeGestaoEscolar.Repository.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Interface\\SistemaDeGestaoEscolar.Repository.Interface.csproj",
+        "projectName": "SistemaDeGestaoEscolar.Repository.Interface",
+        "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Interface\\SistemaDeGestaoEscolar.Repository.Interface.csproj",
+        "packagesPath": "C:\\Users\\Monteiro\\.nuget\\packages\\",
+        "outputPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Repository.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Monteiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj": {
+                "projectPath": "C:\\SGE\\SistemaDeGestaoEscolar\\SistemaDeGestaoEscolar.Data.Domain\\SistemaDeGestaoEscolar.Data.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

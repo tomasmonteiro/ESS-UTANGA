@@ -1,0 +1,272 @@
+﻿@using SistemaDeGestaoEscolar.WebApp
+@{
+    var nomeCompletoDoUsuario = User.FindFirst("NomeCompleto")?.Value;
+
+     //Autorização de Menu
+    var permiteAcessarPerfilUsuario = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.AcessarCadastroPerfilUsuario);
+    var permiteAcessarUsuario = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.AcessarCadastroUsuario);
+    var permiteMenuAdmin = (permiteAcessarPerfilUsuario || permiteAcessarUsuario);
+
+    var permiteAcessarCurso = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.AcessarCadastroCurso);
+    var permiteAcessarTurma = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.AcessarCadastroTurma);
+   
+    var permiteAcessarAluno = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.AcessarCadastroAluno);
+    var permiteAcessarDisciplina = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.AcessarCadastroDisciplina);
+
+    var permiteAcessarMatricula = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.AcessarCadastroMatricula);
+    var permiteAcessarProfessor = User.HasDireitoDeAcesso(DireitoDeAcessoEnum.AcessarCadastroProfessor);
+    
+    var permiteMenuCadastro = (permiteAcessarCurso || permiteAcessarTurma);
+
+      
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"] | Sistema de Gestão</title>
+    <link href="~/css/font-awesome.css" type="text/css" rel="stylesheet">
+    <link href="~/css/bootstrap.css" type="text/css" rel="stylesheet">
+    <link href="~/css/jquery.smartmenus.bootstrap.css" type="text/css" rel="stylesheet">
+    <link href="~/css/jquery.simpleLens.css" type="text/css" rel="stylesheet">
+    <link href="~/css/slick.css" type="text/css" rel="stylesheet">
+    <link href="~/css/nouislider.css" type="text/css" rel="stylesheet">
+    <link href="~/css/theme-color/lite-blue-theme.css" rel="stylesheet" id="switcher" />
+    <link href="~/css/sequence-theme.modern-slide-in.css" rel="stylesheet" media="all">
+    <link href="~/css/site.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!-- SCROLL TOP BUTTON -->
+    <a class="scrollToTop" href="#"><i class="fa fa-chevron-up"></i></a>
+    <!-- END SCROLL TOP BUTTON -->
+    <!-- Start header section -->
+    <header id="aa-header">
+        <!-- start header top  -->
+        <div class="aa-header-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="aa-header-top-area">
+                            <!-- start header top left -->
+                            <div class="aa-header-top-left">
+                                <!-- start cellphone -->
+                                <div class="cellphone hidden-xs">
+                                    <p><span class="fa fa-phone"></span>+244 923554466</p>
+                                </div>
+                                <!-- / cellphone -->
+                            </div>
+                            <!-- / header top left -->
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <form asp-action="Logout" asp-controller="Account" method="post" id="logoutForm" class="aa-header-top-right">
+                                    <ul class="nav navbar-nav navbar-right">
+                                        <li><a href="javascript:void()">@nomeCompletoDoUsuario</a></li>
+                                        <li><a href="javascript:void()">Minha Conta</a></li>
+                                        <li><a href="javascript:document.getElementById('logoutForm').submit()">Logout</a></li>
+                                    </ul>
+                                </form>
+                            }
+                            else
+                            {
+                                <div class="aa-header-top-right">
+                                    <ul class="aa-head-top-nav-right">
+                                        <li><a asp-action="Login" asp-controller="Account">Login</a></li>
+                                    </ul>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- / header top  -->
+        <!-- start header bottom  -->
+        <div class="aa-header-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="aa-header-bottom-area">
+                            <!-- logo  -->
+                            <div class="aa-logo">
+                                <!-- Text based logo -->
+                                <a asp-action="Index" asp-controller="Home">
+                                    <span class="fa fa-book"></span>
+                                    <p>Sistema de Gestão<strong> Escolar</strong> <span>Seu parceiro Educacional</span></p>
+                                </a>
+                                <!-- img based logo -->
+                            </div>
+                            <!-- / logo  -->
+                            <!-- cart box -->
+                            <div class="aa-cartbox">
+                                <a class="aa-cart-link" href="#">
+                                    <span class="fa fa-shopping-basket"></span>
+                                    <span class="aa-cart-title">Instituto Médio Educação Para Todos</span>
+                                    <span class="aa-cart-notify">7</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- / header bottom  -->
+    </header>
+    <!-- / header section -->
+    <!-- menu -->
+    <section id="menu">
+        <div class="container">
+            <div class="menu-area">
+                <!-- Navbar -->
+                <div class="navbar navbar-default" role="navigation">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <!-- Left nav -->
+                        <ul class="nav navbar-nav">
+                            @if (permiteMenuAdmin)
+                            {
+                            <li><a asp-action="Index" asp-controller="Home">Home</a></li>
+                                <li>
+                                    <a href="#">Administração<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        @if(permiteAcessarPerfilUsuario)
+                                        {
+                                            <li><a asp-action="Index" asp-controller="CadastroRole">Perfís de Usuário</a></li>
+                                        }
+                                        @if(permiteAcessarUsuario)
+                                        {
+                                            <li><a asp-action="Index" asp-controller="CadastroUser">Usuários</a></li>
+                                        }
+                                       
+                                    </ul>
+                                </li>
+                            }
+                            @if(permiteMenuCadastro)
+                            {
+                                <li>
+                                    <a href="#">Cadastros<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        @if (permiteAcessarCurso)
+                                        {
+                                            <li><a asp-action="Index" asp-controller="CadastroCurso">Cursos</a></li>
+                                        }
+                                        @if (permiteAcessarProfessor)
+                                        {
+                                            <li><a asp-action="Index" asp-controller="CadastroCurso">Professor</a></li>
+                                        }
+                                        @if (permiteAcessarTurma)
+                                        {
+                                            <li><a asp-action="Index" asp-controller="CadastroCurso">Turma</a></li>
+                                        }
+                                        @if (permiteAcessarDisciplina)
+                                        {
+                                            <li><a asp-action="Index" asp-controller="CadastroCurso">Disciplina</a></li>
+                                        }
+                                        @if (permiteAcessarMatricula)
+                                        {
+                                            <li><a asp-action="Index" asp-controller="CadastroCurso">Matricula</a></li>
+                                        }
+                                        @if (permiteAcessarAluno)
+                                        {
+                                            <li><a asp-action="Index" asp-controller="CadastroCurso">Aluno</a></li>
+                                        }
+                                    </ul>
+                                </li>
+                            }
+                               @* <li>
+                                <a href="#">Operações<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a asp-action="Index" asp-controller="">Perfís de Usuário</a></li>
+                                    <li><a asp-action="Index" asp-controller="">Usuários</a></li>
+                                </ul>
+
+                                </li>*@
+                            @*<li>
+                                <a href="#">Consultas<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a asp-action="Index" asp-controller="">Perfís de Usuário</a></li>
+                                    <li><a asp-action="Index" asp-controller="">Usuários</a></li>
+                                </ul>
+                            </li>*@
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- / menu -->
+    @RenderBody()
+    <!-- footer -->
+    <footer id="aa-footer">
+        <!-- footer bottom -->
+        <div class="aa-footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="aa-footer-top-area">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="aa-footer-widget">
+                                        <div class="aa-footer-widget">
+                                            <h3>Nosso Contato</h3>
+                                            <address>
+                                                <p> Rua X, Luanda, Angola</p>
+                                                <p><span class="fa fa-phone"></span>+244 923554466</p>
+                                                <p><span class="fa fa-envelope"></span>contato@gestaoescolar</p>
+                                            </address>
+                                            <div class="aa-footer-social">
+                                                <a href="#"><span class="fa fa-facebook"></span></a>
+                                                <a href="#"><span class="fa fa-twitter"></span></a>
+                                                <a href="#"><span class="fa fa-google-plus"></span></a>
+                                                <a href="#"><span class="fa fa-youtube"></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- footer-bottom -->
+        <div class="aa-footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="aa-footer-bottom-area">
+                            <p>Criado por <a href="https://www.gestaoEscolar/">Grupo Nº 1- 2023</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- / footer -->
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/bootstrap.js"></script>
+    <script src="~/js/jquery.smartmenus.js"></script>
+    <script src="~/js/jquery.smartmenus.bootstrap.js"></script>
+    <script src="~/js/jquery.simpleGallery.js"></script>
+    <script src="~/js/jquery.simpleLens.js"></script>
+    <script src="~/js/slick.js"></script>
+    <script src="~/js/nouislider.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/sweetalert.min.js"></script>
+    @await RenderSectionAsync("scripts", required: false)
+</body>
+</html>
